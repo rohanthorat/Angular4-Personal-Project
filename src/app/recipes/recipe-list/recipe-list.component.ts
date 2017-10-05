@@ -16,7 +16,7 @@ export class RecipeListComponent implements OnInit {
   ];
 
 
-  constructor() { }
+  //constructor() { }
 
   ngOnInit() {
   }
