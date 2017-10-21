@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import {ActivatedRoute, Params, Router} from '@angular/router';
-import {FormArray, FormControl, FormGroup, Validators} from '@angular/forms';
-import {RecipeService} from '../recipe.service';
+import { ActivatedRoute, Params, Router } from '@angular/router';
+import { FormArray, FormControl, FormGroup, Validators} from '@angular/forms';
+import { RecipeService} from '../recipe.service';
 
 
 @Component({
@@ -63,7 +63,8 @@ export class RecipeEditComponent implements OnInit {
   onCancel() {
     this.router.navigate(['../'], {relativeTo: this.route});
   }
-  private initForm() {
+
+   private initForm() {
     let recipeName = '';
     let recipeImagePath = '';
     let recipeDescription = '';
