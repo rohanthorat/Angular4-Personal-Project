@@ -1,5 +1,5 @@
 # AWSHosting
-I have hosted this application on AWS (http://rohan-recipe-book-deployment.s3-website.us-east-2.amazonaws.com/recipes)
+Check out the working application http://rohan-recipe-book-deployment.s3-website.us-east-2.amazonaws.com/recipes.
 
 # Angular4Project
 
