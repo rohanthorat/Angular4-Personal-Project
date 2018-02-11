@@ -1,3 +1,7 @@
+# AWSHosting
+I have hosted this application on AWS, below is the link:
+http://rohan-recipe-book-deployment.s3-website.us-east-2.amazonaws.com/recipes
+
 # Angular4Project
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.4.3.
